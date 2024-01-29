@@ -37,3 +37,4 @@ The project codebase, including the MVP version, will be maintained on Github.
 ## Conclusion
 
 The TechToTech Conference mobile application aims to streamline the conference experience for attendees by providing a user-friendly interface for accessing schedules and activity details. By adhering to the project constraints and leveraging SwiftUI, we ensure a robust and visually appealing application for our client's event.
+
